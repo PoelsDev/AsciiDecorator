@@ -1,0 +1,16 @@
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\obj\Debug\netcoreapp2.0\AsciiDecoratorTests.csprojResolveAssemblyReference.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\obj\Debug\netcoreapp2.0\AsciiDecoratorTests.csproj.CoreCompileInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\obj\Debug\netcoreapp2.0\AsciiDecoratorTests.AssemblyInfoInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\obj\Debug\netcoreapp2.0\AsciiDecoratorTests.AssemblyInfo.cs
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\AsciiDecoratorTests.deps.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\AsciiDecoratorTests.runtimeconfig.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\AsciiDecoratorTests.runtimeconfig.dev.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\AsciiDecoratorTests.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\AsciiDecoratorTests.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\AsciiDecorator.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\bin\Debug\netcoreapp2.0\AsciiDecorator.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\obj\Debug\netcoreapp2.0\AsciiDecoratorTests.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecoratorTests\obj\Debug\netcoreapp2.0\AsciiDecoratorTests.pdb

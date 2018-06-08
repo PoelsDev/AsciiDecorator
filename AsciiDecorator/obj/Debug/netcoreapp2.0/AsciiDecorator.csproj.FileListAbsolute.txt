@@ -1,0 +1,9 @@
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\bin\Debug\netcoreapp2.0\AsciiDecorator.deps.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\bin\Debug\netcoreapp2.0\AsciiDecorator.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\bin\Debug\netcoreapp2.0\AsciiDecorator.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\obj\Debug\netcoreapp2.0\AsciiDecorator.csprojResolveAssemblyReference.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\obj\Debug\netcoreapp2.0\AsciiDecorator.csproj.CoreCompileInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\obj\Debug\netcoreapp2.0\AsciiDecorator.AssemblyInfoInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\obj\Debug\netcoreapp2.0\AsciiDecorator.AssemblyInfo.cs
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\obj\Debug\netcoreapp2.0\AsciiDecorator.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\AsciiDecorator\AsciiDecorator\obj\Debug\netcoreapp2.0\AsciiDecorator.pdb
